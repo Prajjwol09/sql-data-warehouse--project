@@ -24,6 +24,20 @@ This project involves:
 
 ---
 
+## Data Flow Diagram
+<img width="1104" height="718" alt="image" src="https://github.com/user-attachments/assets/bec39c1b-0e64-4494-a242-de8fd5c2b4dd" />
+
+--- 
+
+## Data Mart (Star Schema)
+<img width="1276" height="721" alt="image" src="https://github.com/user-attachments/assets/a5b5d958-cbb6-4daf-9c22-ebfc84fea379" />
+
+---
+
+## Data Integration Model
+<img width="1310" height="761" alt="image" src="https://github.com/user-attachments/assets/0261014b-d4a9-41c7-93b7-1f64a9ae2a97" />
+
+
 ## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
